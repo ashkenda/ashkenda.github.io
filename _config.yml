@@ -1,12 +1,12 @@
-title: Your Name
-description: Software Engineer & Developer
-url: "https://yourusername.github.io"
+title: Kendall Ash
+description: Graduate Ecology Student
+url: "https://ashkenda.github.io"
 baseurl: ""
 
 author:
-  name: Your Name
-  email: you@email.com
-  github: yourusername
+  name: Kendall Ash
+  email: ashkenda@msu.edu
+  github: ashkenda
   linkedin: yourlinkedin
   twitter: yourtwitter   # optional, remove if not needed
 
