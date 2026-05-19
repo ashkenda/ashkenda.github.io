@@ -4,7 +4,7 @@ cv:
   email: ashkenda@msu.edu
   location: East Lansing, MI
   image:
-  summary: Masters student at Michigan State University in the Bridge Lab studying Ecology, Evolution, & Behavior and Fisheries & Widlife. 
+  summary: Masters student at Michigan State University in the Bridge Lab studying Ecology, Evolution, & Behavior and Fisheries & Widlife.
 
   social_networks:
     - network: LinkedIn
@@ -51,10 +51,10 @@ cv:
         end_date: 2027
         summary: Conducting large-scale data analysis on U.S. lakes using the NLA, LAGOS, and CMIP6 databases
         highlights:
-        - Using machine learning to analyze the drivers of cyanobacteria microcystin production across thousands of lakes in the present day and under future climate change scenarios 
-        -	Analyzing cyanobacteria community composition and functional traits using redundancy analysis
-        -	Compiling, processing, and QA/QC’d large amounts of data using RStudio and cloud computing
-        -	Assisting with additional lab projects including analyzing the relationship between lake sampling efforts and community demographics as well as creating the LAGOS LIMNO v.2.0 database
+          - Using machine learning to analyze the drivers of cyanobacteria microcystin production across thousands of lakes in the present day and under future climate change scenarios
+          - Analyzing cyanobacteria community composition and functional traits using redundancy analysis
+          - Compiling, processing, and QA/QC'd large amounts of data using RStudio and cloud computing
+          - Assisting with additional lab projects including analyzing the relationship between lake sampling efforts and community demographics as well as creating the LAGOS LIMNO v.2.0 database
 
       - company: University of Michigan Biological Station
         position: Field Technician
@@ -63,11 +63,10 @@ cv:
         end_date: August 2024
         summary: Assisted visiting researchers with projects at the station
         highlights:
-        - Assembled mesocosm plot for ant colony research with Dr. J. P. Lessard (Concordia University)
-        -	Captured bumble bees for population and pathogen surveys and collected strawberries for chemical analysis with Dr. Mary Jamieson (Oakland University)
-        - Digitized data archive and herbarium specimens
-        - Mapped field sites on station property on ArcGIS
-
+          - Assembled mesocosm plot for ant colony research with Dr. J. P. Lessard (Concordia University)
+          - Captured bumble bees for population and pathogen surveys and collected strawberries for chemical analysis with Dr. Mary Jamieson (Oakland University)
+          - Digitized data archive and herbarium specimens
+          - Mapped field sites on station property on ArcGIS
 
       - company: Duffy Lab at University of Michigan
         position: Undergraduate Research Assistant
@@ -75,21 +74,19 @@ cv:
         url: https://duffylab.wordpress.com/
         start_date: 2023
         end_date: 2024
-        summary: Examined relationships and complex interactions between fungal and microsporidian parasites of Daphnia 
-        highlights: 
-        - sampled and analyzed local lakes using YSI multiparameter probe, fluorometer, Secchi disk, and zooplankton nets
-        - assisted with and conducted various research projects, maintained Daphnia and parasite colonies, filtered lake water, ran genetic analyses
-
+        summary: Examined relationships and complex interactions between fungal and microsporidian parasites of Daphnia
+        highlights:
+          - sampled and analyzed local lakes using YSI multiparameter probe, fluorometer, Secchi disk, and zooplankton nets
+          - assisted with and conducted various research projects, maintained Daphnia and parasite colonies, filtered lake water, ran genetic analyses
 
       - company: Rouf Lab at Michigan Medicine
-        position: Undergraduate Research Assistant 
+        position: Undergraduate Research Assistant
         location: Ann Arbor, MI
         start_date: 2021
         end_date: 2022
         summary: Used mouse models to examine sex differences in heart failure and cardiovascular disease
-        highlights: 
-        - Conducted genetic analysis to identify mice genotypes using DNA extraction, PCR, and gel electrophoresis
-
+        highlights:
+          - Conducted genetic analysis to identify mice genotypes using DNA extraction, PCR, and gel electrophoresis
 
     Volunteer:
       - company: People's Climate March
@@ -109,7 +106,7 @@ cv:
         date: 1921-11-01
         awarder: Royal Swedish Academy of Sciences
         url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
+        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefi[...]
 
       - title: Max Planck Medal
         authors:
@@ -125,7 +122,7 @@ cv:
         publisher: Annalen der Physik
         releaseDate: 1905-06-30
         url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
+        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is[...]
 
       - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
         authors:
@@ -133,7 +130,7 @@ cv:
         publisher: Annalen der Physik
         releaseDate: 1905-03-18
         url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
-        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
+        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental[...]
 
       - title: Die Grundlage der allgemeinen Relativitätstheorie
         authors:
@@ -141,7 +138,7 @@ cv:
         publisher: Annalen der Physik
         releaseDate: 1916-03-20
         url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-        summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
+        summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–19[...]
 
     Skills:
       - name: Physics
@@ -179,7 +176,7 @@ cv:
 
     Projects:
       - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
+        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known [...]
         highlights:
           - Quantum Teleportation
           - Quantum Cryptography
@@ -189,8 +186,8 @@ cv:
     References:
       - name: Professor John Doe
         icon: fa-solid fa-laptop
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in ris[...]
 
       - name: Professor Jane Smith
         icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in ris[...]
