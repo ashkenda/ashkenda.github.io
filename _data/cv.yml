@@ -59,8 +59,8 @@ cv:
       - company: University of Michigan Biological Station
         position: Field Technician
         location: Pellston, MI
-        start_date: May 2024
-        end_date: August 2024
+        url: https://lsa.umich.edu/umbs/news-events/all-news/search-news/q-a--umbs-field-technician-plays-critical-role-in-research-exper.html
+        date: 2024
         summary: Assisted visiting researchers with projects at the station
         highlights:
           - Assembled mesocosm plot for ant colony research with Dr. J. P. Lessard (Concordia University)
@@ -89,31 +89,60 @@ cv:
           - Conducted genetic analysis to identify mice genotypes using DNA extraction, PCR, and gel electrophoresis
 
     Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
+      - company: iNaturalist
+        position: City Nature Challenge Organizer and iNaturalist Ambassador
+        location: Lansing, MI
+        start_date: 2025
+        end_date: ""
+        summary: Lead organizer for Lansing iNaturalist City Nature Challenge and ambassador for the iNaturalist website
         highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
+          - organized community hikes for two years of the Lansing City Nature Challenge
+          - teaching community members how to use iNaturalist
+          - over 2,000 personal observations and 200 identifications
 
-    Awards:
-      - title: Nobel Prize in Physics
-        authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefi[...]
+      - company: Kellog Biological Station BioBlitz
+        position: Photographer
+        location: Hickory Corners, MI
+        date: 2026
+        summary: Photographed BioBlitz participants and aided community science efforts
+      
+      - company: Girl's Math and Science Day
+        position: Chaperone
+        location: East Lansing, MI
+        date: 2026
+        summary: Guided children through the science fair and answered science questions
+          
+      - company: Bug House at Michigan State University
+        position: Guide
+        location: East Lansing, MI
+        date: 2025
+        summary: Provided outreach and information to local community members about the MSU Bug House insect collection
 
-      - title: Max Planck Medal
-        authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
+
+    Selected Awards:
+      - title: EEB Summer Fellowship
+        date: 2026
+        awarder: Michigan State University EEB
+        
+      - title: NSF GRFP Honorable Mention
+        date: 2026
+        awarder: National Science Foundation
+
+        - title: John and Marietta Peter Scholarship
+        date: 2025
+        awarder: Michigan State University College of Agriculture and Natural Resources
+
+         - title: Robert C. Ball and Betty A. Ball Fellowship
+        date: 2025
+        awarder: Michigan State University Fisheries & Wildlife
+
+         - title: International Conference on Harmful Algae Travel Award
+        date: 2025
+        awarder: NOAA NCCOS
+
+        - title: FW Symposium Best Prospective Oral Presentation
+        date: 2025
+        awarder: Michigan State University Fisheries & Wildlife
 
     Publications:
       - title: Zur Elektrodynamik bewegter Körper
