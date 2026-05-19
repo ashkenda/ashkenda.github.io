@@ -169,38 +169,23 @@ cv:
         summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–19[...]
 
     Skills:
-      - name: Physics
-        level: Master
+      - name: Data Processing and Analysis
         icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+        keywords: "Programming in R, Python, and C++, RStudio, GIS, Google Earth Engine, Cloud Computing, GitHub, Machine Learning, Statistics (ordination and linear modeling)"
+        
+      - name: Laboratory Techniques
+        icon: fa-solid fa-hashtag
+        keywords: "Microscopy, DNA extraction, PCR, gel electrophoresis, fluorometry, mass spectrometry, chromatography"
 
-    Languages:
-      - name: German
-        summary: "Native speaker"
-
-      - name: English
-        summary: "Fluent"
+      - name: Field Techniques
+        icon: fa-solid fa-hashtag
+        keywords: "zooplankton and phytoplankton collection, sonde measurements, insect capture and collection, Open Water SCUBA"
 
     Interests:
       - name: Physics
         icon: fa-solid fa-tag
         keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
 
-    Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-location-dot
-
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-tag
-
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-envelope
 
     Projects:
       - name: Quantum Computing
