@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://ashkenda.github.io/al-folio/sitemap.xml
+Sitemap: https://ashkenda.github.io/sitemap.xml
