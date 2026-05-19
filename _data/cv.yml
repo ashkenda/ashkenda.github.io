@@ -3,7 +3,7 @@ cv:
   label: Graduate Student
   email: ashkenda@msu.edu
   location: East Lansing, MI
-  image:
+  image: /assets/img/profile/glacier.jpg
   summary: Masters student at Michigan State University in the Bridge Lab studying Ecology, Evolution, & Behavior and Fisheries & Widlife.
 
   social_networks:
