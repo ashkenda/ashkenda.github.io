@@ -1,88 +1,96 @@
 cv:
-  name: Albert Einstein
-  label: Scientist
-  email: einstein@example.com
-  location: Princeton, NJ
-  image: ""
-  summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
+  name: Kendall Ash
+  label: Graduate Student
+  email: ashkenda@msu.edu
+  location: East Lansing, MI
+  image: prof_pic.jpg
+  summary: Masters student at Michigan State University in the Bridge Lab studying Ecology, Evolution, & Behavior and Fisheries & Widlife. 
 
   social_networks:
-    - network: X
-      username: AlbertEinstein
-    - network: GitHub
-      username: example
     - network: LinkedIn
-      username: example
+      username: kendall-ash
+    - network: GitHub
+      username: ashkenda
 
   address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
+    street: 480 Wilson Rd
+    city: East Lansing
+    region: Michigan
+    postalCode: MI 48824
     countryCode: US
 
   sections:
     Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
-        url: https://www.uzh.ch/
-        area: Physics
-        studyType: PhD
-        start_date: 1900
-        end_date: 1905
+      - institution: Michigan State University
+        location: East Lansing, MI
+        # url: 
+        area: Ecology, Evolution & Behavior; Fisheries & Wildlife
+        studyType: MS
+        start_date: 2025
+        end_date: 2027
         score: ""
-        courses: "Theory of Relativity"
         highlights:
-          - Description 1.
-          - Description 2.
+          - Data Intensive Landscape Limnology
+          - Machine Learning
 
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
+      - institution: University of Michigan
+        location: Ann Arbor, MI
+        area: Ecology and Evolutionary Biology; German
+        studyType: BS
+        start_date: 2020
+        end_date: 2024
         highlights:
-          - Description 1.
-          - Description 2.
+          - Aquatic Ecology
+          - Laboratory Techniques
 
     Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+      - company: Bridge Lab at Michigan State University
+        position: Graduate Research Assistant
+        location: East Lansing, MI
+        url: https://bridgelabresearch.org/
+        start_date: 2025
+        end_date: 2027
+        summary: Conducting large-scale data analysis on U.S. lakes using the NLA, LAGOS, and CMIP6 databases
         highlights:
-          - Relativity
-          - Description 2.
+        - Using machine learning to analyze the drivers of cyanobacteria microcystin production across thousands of lakes in the present day and under future climate change scenarios 
+        -	Analyzing cyanobacteria community composition and functional traits using redundancy analysis
+        -	Compiling, processing, and QA/QC’d large amounts of data using RStudio and cloud computing
+        -	Assisting with additional lab projects including analyzing the relationship between lake sampling efforts and community demographics as well as creating the LAGOS LIMNO v.2.0 database
 
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
+      - company: University of Michigan Biological Station
+        position: Field Technician
+        location: Pellston, MI
+        start_date: May 2024
+        end_date: August 2024
+        summary: Assisted visiting researchers with projects at the station
         highlights:
-          - Description 1.
-          - Description 2.
+        - Assembled mesocosm plot for ant colony research with Dr. J. P. Lessard (Concordia University)
+        -	Captured bumble bees for population and pathogen surveys and collected strawberries for chemical analysis with Dr. Mary Jamieson (Oakland University)
+        - Digitized data archive and herbarium specimens
+        - Mapped field sites on station property on ArcGIS
 
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
 
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
+      - company: Duffy Lab at University of Michigan
+        position: Undergraduate Research Assistant
+        location: Ann Arbor, MI
+        url: https://duffylab.wordpress.com/
+        start_date: 2023
+        end_date: 2024
+        summary: Examined relationships and complex interactions between fungal and microsporidian parasites of Daphnia 
+        highlights: 
+        - sampled and analyzed local lakes using YSI multiparameter probe, fluorometer, Secchi disk, and zooplankton nets
+        - assisted with and conducted various research projects, maintained Daphnia and parasite colonies, filtered lake water, ran genetic analyses
 
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
+
+      - company: Rouf Lab at Michigan Medicine
+        position: Undergraduate Research Assistant 
+        location: Ann Arbor, MI
+        start_date: 2021
+        end_date: 2022
+        summary: Used mouse models to examine sex differences in heart failure and cardiovascular disease
+        highlights: 
+        - Conducted genetic analysis to identify mice genotypes using DNA extraction, PCR, and gel electrophoresis
+
 
     Volunteer:
       - company: People's Climate March
