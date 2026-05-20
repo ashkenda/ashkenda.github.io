@@ -9,11 +9,11 @@ email: ashkenda@msu.edu # your email address
 # wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 # whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 custom_social: # can be any name here other than the ones already defined in the jekyll-socials plugin
-  logo: https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/ORCID_iD.svg/3840px-ORCID_iD.svg.png # can be png, svg, jpg
+  logo: ai ai-orcid # can be png, svg, jpg
   title: ORCID
   url: https://orcid.org/0009-0006-9749-4642
 
 iNaturalist: # can be any name here other than the ones already defined in the jekyll-socials plugin
-  logo: https://static.inaturalist.org/sites/1-logo_square.png # can be png, svg, jpg
+  logo: ai ai-inaturalist # can be png, svg, jpg
   title: iNaturalist
   url: https://www.inaturalist.org/people/kenda11
