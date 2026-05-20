@@ -511,7 +511,7 @@ ninja.data = [{
         title: 'CV',
         section: 'Socials',
         handler: () => {
-          window.open("/assets/pdf/example_pdf.pdf", "_blank");
+          window.open("/assets/pdf/ASH_CV_2026.pdf", "_blank");
         },
       },{
         id: 'social-email',
@@ -526,6 +526,13 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://orcid.org/0009-0006-9749-4642", "_blank");
+        },
+      },{
+        id: 'social-iNaturalist',
+        title: 'Inaturalist',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.inaturalist.org/people/kenda11", "_blank");
         },
       },{
       id: 'light-theme',
