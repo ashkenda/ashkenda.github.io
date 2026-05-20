@@ -56,17 +56,17 @@ cv:
           - Using machine learning to analyze the drivers of cyanobacteria microcystin production across thousands of lakes in the present day and under future climate change scenarios
           - Analyzing cyanobacteria community composition and functional traits using redundancy analysis
           - Compiling, processing, and QA/QC'd large amounts of data using RStudio and cloud computing
-          - Assisting with additional lab projects including analyzing the relationship between lake sampling efforts and community demographics as well as creating the LAGOS LIMNO v.2.0 database
+          - Assisting with additional lab projects including analyzing the relationship between lake sampling efforts and community demographics
 
       - company: University of Michigan Biological Station
         position: Field Technician
         location: Pellston, MI
-        url: https://lsa.umich.edu/umbs/news-events/all-news/search-news/q-a--umbs-field-technician-plays-critical-role-in-research-exper.html
-        date: 2024
+        start_date: May 2024
+        end_date: August 2024
         summary: Assisted visiting researchers with projects at the station
         highlights:
-          - Assembled mesocosm plot for ant colony research with Dr. J. P. Lessard (Concordia University)
-          - Captured bumble bees for population and pathogen surveys and collected strawberries for chemical analysis with Dr. Mary Jamieson (Oakland University)
+          - Assembled mesocosm plot for ant colony research with Dr. J. P. Lessard
+          - Captured bumble bees for population surveys and collected strawberries for chemical analysis
           - Digitized data archive and herbarium specimens
           - Mapped field sites on station property on ArcGIS
 
@@ -78,8 +78,9 @@ cv:
         end_date: 2024
         summary: Examined relationships and complex interactions between fungal and microsporidian parasites of Daphnia
         highlights:
-          - sampled and analyzed local lakes using YSI multiparameter probe, fluorometer, Secchi disk, and zooplankton nets
-          - assisted with and conducted various research projects, maintained Daphnia and parasite colonies, filtered lake water, ran genetic analyses
+          - Sampled and analyzed local lakes using YSI multiparameter probe, fluorometer, Secchi disk, and zooplankton nets
+          - Assisted with and conducted various research projects
+          - Maintained Daphnia and parasite colonies, filtered lake water, ran genetic analyses
 
       - company: Rouf Lab at Michigan Medicine
         position: Undergraduate Research Assistant
@@ -90,7 +91,7 @@ cv:
         highlights:
           - Conducted genetic analysis to identify mice genotypes using DNA extraction, PCR, and gel electrophoresis
 
-    Selected Awards:
+    Awards:
       - title: EEB Summer Fellowship
         date: 2026
         awarder: Michigan State University EEB
@@ -111,46 +112,39 @@ cv:
         date: 2025
         awarder: NOAA NCCOS
 
-      - title: FW Symposium Best Prospective Oral Presentation
-        date: 2025
-        awarder: Michigan State University Fisheries & Wildlife
-
-    Selected Publications and Presentations:
-      - title: "User Guide to LAGOS-US HUMAN v1: Data module of human population (1990-2020), urbanization classification, and lake access in the conterminous U.S"
+    Publications:
+      - title: User Guide to LAGOS-US HUMAN v1
         authors:
-          - Lippert, A.L., Z. Naylor, X. Sun, P.J. Hanly, J. Díaz Vázquez, M. Haite, **K. Ash**, K.S. Cheruvelil, and P.A. Soranno.
+          - Lippert, A.L., Z. Naylor, X. Sun, P.J. Hanly, J. Díaz Vázquez, M. Haite, K. Ash, K.S. Cheruvelil, and P.A. Soranno
         publisher: Environmental Data Initiative
         releaseDate: 2025
         url: https://doi.org/10.6073/pasta/565221d2d2a7cb3dcf103e44f538d89b
-        summary: "(Publication) LAGOS-US data module for human characteristics of lakes"
 
-      - title: "Toxic relationships: predicting drivers of lake microcystin across the U.S. and into the future"
+      - title: Toxic relationships - predicting drivers of lake microcystin across the U.S. and into the future
         authors:
-          - "**K. Ash**, P.J. Hanly, K.S. Cheruvelil"
+          - K. Ash, P.J. Hanly, K.S. Cheruvelil
         publisher: ASLO-SIL 2026 Joint Meeting
-        releaseDate: May 2026
-        summary: "(Oral presentation) Results of an ML model predicting microcystin in lakes under three future climate scenarios"
+        releaseDate: 2026
 
       - title: Predicting cyanobacteria blooms in U.S. lakes using national scale data
         authors:
-          - "**K. Ash**, P.J. Hanly, K.S. Cheruvelil"
+          - K. Ash, P.J. Hanly, K.S. Cheruvelil
         publisher: International Conference on Harmful Algae
-        releaseDate: October 2025
-        summary: "(Oral presentation) Exploration of the relationship between pH and microcystin based on the results of a predictive ML model for the present day"
+        releaseDate: 2025
 
     Volunteer:
       - company: iNaturalist
         position: City Nature Challenge Organizer and iNaturalist Ambassador
         location: Lansing, MI
         start_date: 2025
-        end_date: ""
+        end_date: present
         summary: Lead organizer for Lansing iNaturalist City Nature Challenge and ambassador for the iNaturalist website
         highlights:
-          - organized community hikes for two years of the Lansing City Nature Challenge
-          - teaching community members how to use iNaturalist
-          - over 2,000 personal observations and 200 identifications
+          - Organized community hikes for the Lansing City Nature Challenge
+          - Teaching community members how to use iNaturalist
+          - Over 2,000 personal observations and 200 identifications
 
-      - company: Kellog Biological Station BioBlitz
+      - company: Kellogg Biological Station BioBlitz
         position: Photographer
         location: Hickory Corners, MI
         date: 2026
@@ -162,41 +156,22 @@ cv:
         date: 2026
         summary: Guided children through the science fair and answered science questions
 
-      - company: Bug House at Michigan State University
+      - company: MSU Bug House
         position: Guide
         location: East Lansing, MI
         date: 2025
-        summary: Provided outreach and information to local community members about the MSU Bug House insect collection
+        summary: Provided outreach and information about the MSU Bug House insect collection
 
     Skills:
       - name: Data Processing and Analysis
-        icon: fa-solid fa-hashtag
-        keywords: "Programming in R, Python, and C++, RStudio, GIS, Google Earth Engine, Cloud Computing, GitHub, Machine Learning, Statistics (ordination and linear modeling)"
+        keywords: Programming in R, Python, and C++; RStudio; GIS; Google Earth Engine; Cloud Computing; GitHub; Machine Learning; Statistics
 
       - name: Laboratory Techniques
-        icon: fa-solid fa-hashtag
-        keywords: "Microscopy, DNA extraction, PCR, gel electrophoresis, fluorometry, mass spectrometry, chromatography"
+        keywords: Microscopy; DNA extraction; PCR; gel electrophoresis; fluorometry; mass spectrometry; chromatography
 
       - name: Field Techniques
-        icon: fa-solid fa-hashtag
-        keywords: "zooplankton and phytoplankton collection, sonde measurements, insect capture and collection, Open Water SCUBA"
+        keywords: Zooplankton and phytoplankton collection; sonde measurements; insect capture and collection; Open Water SCUBA
 
     Interests:
       - name: Aquatic Ecology
-        icon: fa-solid fa-tag
-        keywords: "Climate change, Arctic ecology, Microbial ecology, Open Science, Computational ecology, Harmful algal blooms, Inducible defense, Parasitism, Biomagnification"
-
-    Teaching Experience:
-      - name: TA
-        summary: Undergraduate internship experiences in South Africa
-        highlights:
-          - Coordinated and supported students for two-week cheetah conservation and marine biology internships in South Africa
-          - graded student assignments
-        start_date: 2025
-
-      - name: Field Assistant and Grader
-        summary: Field and Laboratory Techniques for Aquatic Studies
-        highlights:
-          - Prepared and assisted with laboratory activities and equipment, graded student assignments
-          - Prepared and presented a guest lecture about algae and harmful algal blooms
-        start_date: 2025
+        keywords: Climate change; Arctic ecology; Microbial ecology; Open Science; Computational ecology; Harmful algal blooms
