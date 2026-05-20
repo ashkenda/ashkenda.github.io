@@ -20,8 +20,9 @@
           {% capture single_date %}
             {% if entry.date %}{{ entry.date }}{% endif %}
           {% endcapture %}
-          {% if single_date != '' %}
-            {% assign date = single_date %}
+          {% assign single_date_stripped = single_date | strip %}
+          {% if single_date_stripped != '' %}
+            {% assign date = single_date_stripped %}
           {% elsif start_date != '' %}
             {% assign startDate = start_date | split: '-' | first %}
             {% assign endDate = end_date | split: '-' | first | default: 'Present' %}
