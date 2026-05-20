@@ -88,36 +88,6 @@ cv:
         highlights:
           - Conducted genetic analysis to identify mice genotypes using DNA extraction, PCR, and gel electrophoresis
 
-    Volunteer:
-      - company: iNaturalist
-        position: City Nature Challenge Organizer and iNaturalist Ambassador
-        location: Lansing, MI
-        start_date: 2025
-        end_date: ""
-        summary: Lead organizer for Lansing iNaturalist City Nature Challenge and ambassador for the iNaturalist website
-        highlights:
-          - organized community hikes for two years of the Lansing City Nature Challenge
-          - teaching community members how to use iNaturalist
-          - over 2,000 personal observations and 200 identifications
-
-      - company: Kellog Biological Station BioBlitz
-        position: Photographer
-        location: Hickory Corners, MI
-        date: 2026
-        summary: Photographed BioBlitz participants and aided community science efforts
-
-      - company: Girl's Math and Science Day
-        position: Chaperone
-        location: East Lansing, MI
-        date: 2026
-        summary: Guided children through the science fair and answered science questions
-
-      - company: Bug House at Michigan State University
-        position: Guide
-        location: East Lansing, MI
-        date: 2025
-        summary: Provided outreach and information to local community members about the MSU Bug House insect collection
-
     Selected Awards:
       - title: EEB Summer Fellowship
         date: 2026
@@ -168,11 +138,41 @@ cv:
         url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
         summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–19[...]
 
+    Volunteer:
+      - company: iNaturalist
+        position: City Nature Challenge Organizer and iNaturalist Ambassador
+        location: Lansing, MI
+        start_date: 2025
+        end_date: ""
+        summary: Lead organizer for Lansing iNaturalist City Nature Challenge and ambassador for the iNaturalist website
+        highlights:
+          - organized community hikes for two years of the Lansing City Nature Challenge
+          - teaching community members how to use iNaturalist
+          - over 2,000 personal observations and 200 identifications
+
+      - company: Kellog Biological Station BioBlitz
+        position: Photographer
+        location: Hickory Corners, MI
+        date: 2026
+        summary: Photographed BioBlitz participants and aided community science efforts
+
+      - company: Girl's Math and Science Day
+        position: Chaperone
+        location: East Lansing, MI
+        date: 2026
+        summary: Guided children through the science fair and answered science questions
+
+      - company: Bug House at Michigan State University
+        position: Guide
+        location: East Lansing, MI
+        date: 2025
+        summary: Provided outreach and information to local community members about the MSU Bug House insect collection
+
     Skills:
       - name: Data Processing and Analysis
         icon: fa-solid fa-hashtag
         keywords: "Programming in R, Python, and C++, RStudio, GIS, Google Earth Engine, Cloud Computing, GitHub, Machine Learning, Statistics (ordination and linear modeling)"
-        
+
       - name: Laboratory Techniques
         icon: fa-solid fa-hashtag
         keywords: "Microscopy, DNA extraction, PCR, gel electrophoresis, fluorometry, mass spectrometry, chromatography"
@@ -185,7 +185,6 @@ cv:
       - name: Physics
         icon: fa-solid fa-tag
         keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
-
 
     Projects:
       - name: Quantum Computing
