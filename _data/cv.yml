@@ -30,9 +30,6 @@ cv:
         start_date: 2025
         end_date: 2027
         score: ""
-        highlights:
-          - Data Intensive Landscape Limnology
-          - Machine Learning
 
       - institution: University of Michigan
         location: Ann Arbor, MI
@@ -40,9 +37,6 @@ cv:
         studyType: BS
         start_date: 2020
         end_date: 2024
-        highlights:
-          - Aquatic Ecology
-          - Laboratory Techniques
 
     Experience:
       - company: Bridge Lab at Michigan State University
