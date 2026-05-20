@@ -61,8 +61,8 @@ cv:
       - company: University of Michigan Biological Station
         position: Field Technician
         location: Pellston, MI
-        start_date: May 2024
-        end_date: August 2024
+        start_date: 2024
+        end_date: 2024
         summary: Assisted visiting researchers with projects at the station
         highlights:
           - Assembled mesocosm plot for ant colony research with Dr. J. P. Lessard
