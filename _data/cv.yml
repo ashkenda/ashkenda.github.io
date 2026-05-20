@@ -4,7 +4,7 @@ cv:
   email: ashkenda@msu.edu
   location: East Lansing, MI
   image: /assets/img/profile/glacier.jpg
-  summary: Masters student at Michigan State University in the Bridge Lab studying Ecology, Evolution, & Behavior and Fisheries & Widlife.
+  summary: I am a student in the Bridge Lab at Michigan State University pursuing an M.S. in Fisheries & Widlife with a specialization in Ecology, Evolution, & Behavior. My current research utilizes machine learning and national scale datasets to predict risk of microcystin toxins across U.S. lakes in both the present and future.
 
   social_networks:
     - network: LinkedIn
@@ -61,8 +61,7 @@ cv:
       - company: University of Michigan Biological Station
         position: Field Technician
         location: Pellston, MI
-        start_date: 2024
-        end_date: 2024
+        date: "Summer 2024"
         summary: Assisted visiting researchers with projects at the station
         highlights:
           - Assembled mesocosm plot for ant colony research with Dr. J. P. Lessard
