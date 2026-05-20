@@ -11,6 +11,8 @@ cv:
       username: kendall-ash
     - network: GitHub
       username: ashkenda
+    - network: iNaturalist
+      username: kenda11
 
   address:
     street: 480 Wilson Rd
@@ -113,30 +115,29 @@ cv:
         date: 2025
         awarder: Michigan State University Fisheries & Wildlife
 
-    Publications:
-      - title: Zur Elektrodynamik bewegter Körper
+    Selected Publications and Presentations:
+      - title: User Guide to LAGOS-US HUMAN v1: Data module of human population(1990-2020), 
+urbanization classification, and lake access in the conterminous U.S
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-06-30
-        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is[...]
+          - Lippert, A.L., Z. Naylor, X. Sun, P.J. Hanly, J. Díaz Vázquez, M. Haite, **K. Ash**, K.S. Cheruvelil, and P.A. Soranno.
+        publisher: Environmental Data Initiative
+        releaseDate: 2025
+        url: https://urldefense.com/v3/__https:/doi.org/10.6073/pasta/565221d2d2a7cb3dcf103e44f538d89b__;!!HXCxUKc!3KfrNMSPqtZBOm1PCLXRpbprPRYYSmimEJp0diaLGhMP2D2zmoWzue3KiKLwOD2N-wlS6eQFeizYWoE$
+        summary: (Publication) LAGOS-US data module for human characteristics of lakes
+        
+      - title: Toxic relationships: predicting drivers of lake microcystin across the U.S. and into the future. 
+        authors:
+          - **K. Ash**, P.J. Hanly, K.S. Cheruvelil
+        publisher: ASLO-SIL 2026 Joint Meeting
+        releaseDate: May 2026
+        summary: (Oral presentation) Results of an ML model predicting microcystin in lakes under three future climate scenarios
 
-      - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
+      - title: Predicting cyanobacteria blooms in U.S. lakes using national scale data
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-03-18
-        url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
-        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental[...]
-
-      - title: Die Grundlage der allgemeinen Relativitätstheorie
-        authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1916-03-20
-        url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-        summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–19[...]
+          - **K. Ash**, P.J. Hanly, K.S. Cheruvelil
+        publisher: International Conference on Harmful Algae
+        releaseDate: October 2025
+        summary: (Oral presentation) Exploration of the relationship between pH and microcystin based on the results of a predictive ML model for the present day
 
     Volunteer:
       - company: iNaturalist
@@ -182,15 +183,19 @@ cv:
         keywords: "zooplankton and phytoplankton collection, sonde measurements, insect capture and collection, Open Water SCUBA"
 
     Interests:
-      - name: Physics
-        icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+      - keywords: "Aquatic ecology, Climate change and Arctic ecology, Microbial ecology, Open Science, Computational ecology, Harmful algal blooms, Inducible defense, Parasitism, Biomagnification"
 
-    Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known [...]
+    Teaching Experience:
+      - name: TA
+        summary: Undergraduate internship experiences in South Africa
         highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
+        - Coordinated and supported students for two-week cheetah conservation and marine biology internships in South Africa
+        - graded student assignments
+        start_date: 2025
+
+      - name: Field Assistant and Grader
+        summary: Field and Laboratory Techniques for Aquatic Studies
+        highlights:
+        - Prepared and assisted with laboratory activities and equipment, graded student assignments
+        - Prepared and presented a guest lecture about algae and harmful algal blooms
+        start_date: 2025
