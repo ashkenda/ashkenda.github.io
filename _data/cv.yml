@@ -170,4 +170,14 @@ cv:
 
     Interests:
       - icon: fa-solid fa-bacteria
-      keywords: Aquatic ecology; Climate change; Arctic ecology; Microbial ecology; Open Science; Computational ecology; Harmful algal blooms
+        keywords: 
+          - Aquatic ecology
+          - Climate change
+          - Arctic ecology
+          - Microbial ecology
+          - Open Science
+          - Computational ecology
+          - Harmful algal blooms
+          - Inducible defense
+          - Parasitism
+          - Biomagnification
