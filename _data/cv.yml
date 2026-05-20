@@ -163,13 +163,17 @@ cv:
 
     Skills:
       - name: Data Processing and Analysis
+        icon: fa-solid fa-database
         keywords: Programming in R, Python, and C++; RStudio; GIS; Google Earth Engine; Cloud Computing; GitHub; Machine Learning; Statistics
 
       - name: Laboratory Techniques
+        icon: fa-solid fa-flask
         keywords: Microscopy; DNA extraction; PCR; gel electrophoresis; fluorometry; mass spectrometry; chromatography
 
       - name: Field Techniques
+        icon: fa-solid fa-binoculars
         keywords: Zooplankton and phytoplankton collection; sonde measurements; insect capture and collection; Open Water SCUBA
 
     Interests:
+        icon: fa-solid fa-bacteria
         keywords: Aquatic ecology; Climate change; Arctic ecology; Microbial ecology; Open Science; Computational ecology; Harmful algal blooms
