@@ -60,16 +60,16 @@
             {% endif %}
          
             {% if entry.highlights %}
-            <ul class="items">
-              {% for item in entry.highlights %}
-                <li>
-                  <span class="item">{{ item | markdownify | remove: '<p>' | remove: '</p>' }}</span>
-                </li>
-              {% endfor %}
-            </ul>
-          {% endif %}
+              <ul class="items">
+                {% for item in entry.highlights %}
+                  <li>
+                    <span class="item">{{ item | markdownify | remove: '<p>' | remove: '</p>' }}</span>
+                  </li>
+                {% endfor %}
+              </ul>
+            {% endif %}
+          </div>
         </div>
-      </div>
-    </li>
-  {% endfor %}
-</ul>
+      </li>
+    {% endfor %}
+  </ul>
