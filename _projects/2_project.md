@@ -10,19 +10,16 @@ giscus_comments: false
 
 I spent the summer of 2024 as the inaugural field technician at the University of Michigan Biological Station. My job was to be a "field tech for hire" who worked with visiting researchers at the station to accomplish the field component of their projects. This meant I was able to learn a wide variety of field techniques across the field of ecology, from building mesocosms to catching bumblebees and collecting strawberries. When not working directly with researchers, I helped digitize the station's herbarium, restored the mammal collection, and mapped out important ecological sites including a hemlock stand and beaver dams.
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/mesocosm.JPEG" title="mesocosm" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/mesocosm2.jpeg" title="more mesocosms" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/typhacosm.jpeg" title="even more mesocosms" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Memories of mesocosms. left: A mesocosm that I assembled for an overwintering study of pitcher plants for Dr. Will Petry and Nicole Burrough (NCSU). middle: One of 40 mesocosms that I built and assembled for Dr. J.P. Lessard (Concordia University). right: Disassembling mesocosms with Team Typha (Loyola University Chicago)
+    Memories of mesocosms. left: A mesocosm that I assembled for an overwintering study of pitcher plants for Dr. Will Petry and Nicole Burrough (NCSU). right: One of 40 mesocosms that I built and assembled for Dr. J.P. Lessard (Concordia University). 
 </div>
 
 <div class="row">
