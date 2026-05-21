@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Research Experiences
-permalink: /projects/
+title: research
+permalink: /research/
 description: A collection of my previous research experiences and projects.
 nav: true
 nav_order: 3
