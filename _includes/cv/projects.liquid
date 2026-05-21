@@ -33,6 +33,9 @@
             {% if entry.summary %}
               <p class="ml-1 ml-md-4">{{ entry.summary | markdownify | remove: '<p>' | remove: '</p>' }}</p>
             {% endif %}
+            {% if entry.course %}
+              <h6 class="ml-1 ml-md-4" style="font-size: 0.95rem">{{ entry.course }}</h6>
+            {% endif %}
             {% if entry.highlights %}
               <ul class="items">
                 {% for item in entry.highlights %}
@@ -54,6 +57,9 @@
             {% endif %}
             {% if entry.summary %}
               <p class="ml-1 ml-md-4">{{ entry.summary | markdownify | remove: '<p>' | remove: '</p>' }}</p>
+            {% endif %}
+            {% if entry.course %}
+              <h6 class="ml-1 ml-md-4" style="font-size: 0.95rem">{{ entry.course }}</h6>
             {% endif %}
             {% if entry.highlights %}
               <ul class="items">
