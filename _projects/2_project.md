@@ -46,5 +46,3 @@ The Biostation also has countless opportunities for outreach. I loved sharing my
 <div class="caption">
     Presenting work I had assisted with at the UMBS student researcher poster session.
 </div>
-
-{% endraw %}
