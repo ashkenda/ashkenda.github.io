@@ -43,8 +43,9 @@ The Biostation also has countless opportunities for outreach. I loved sharing my
     <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/presenting.JPEG" title="my poster" class="img-fluid rounded z-depth-1" %}
     </div>
+</div>
 <div class="caption">
-   Presenting work I had assisted with at the UMBS student researcher poster session.
+    Presenting work I had assisted with at the UMBS student researcher poster session.
 </div>
 
 {% endraw %}
