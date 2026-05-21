@@ -19,7 +19,7 @@ I spent the summer of 2024 as the inaugural field technician at the University o
     </div>
 </div>
 <div class="caption">
-    Memories of mesocosms. left: A mesocosm that I assembled for an overwintering study of pitcher plants for Dr. Will Petry and Nicole Burrough (NCSU). right: One of 40 mesocosms that I built and assembled for Dr. J.P. Lessard (Concordia University). 
+    Memories of mesocosms. left: A mesocosm that I assembled for an overwintering study of pitcher plants for Dr. Will Petry and Nicole Burrough (NCSU). right: Me with one of 40 mesocosms that I built and assembled for Dr. J.P. Lessard (Concordia University). 
 </div>
 
 <div class="row">
@@ -34,15 +34,17 @@ I spent the summer of 2024 as the inaugural field technician at the University o
     </div>
 </div>
 <div class="caption">
-    More pictures. left: Some of the mammal specimens that I helped restore. middle: Measuring and collecting strawberries for Dr. Mary Jamieson (Oakland University). right: A sleepy tricolored bumblebee that I caught during a bumblebee survey for Dr. Jamieson and Danielle Dorsen.
+    More pictures! left: Some of the mammal specimens that I helped restore. middle: Measuring and collecting strawberries for Dr. Mary Jamieson (Oakland University). right: A sleepy tricolored bumblebee that I caught during a bumblebee survey for Dr. Jamieson and Danielle Dorsen.
 </div>
 
 The Biostation also has countless opportunities for outreach. I loved sharing my experiences with locals who were interested in the observations I had made and in turn hearing about their experiences living around the station. I was able to present some of the things I had learned to the community at the UMBS open house and student researcher poster session where I illustrated a poster by hand. At the end of the summer, I also answered a Q & A about my experiences, which you can read [here](https://lsa.umich.edu/umbs/news-events/all-news/search-news/q-a--umbs-field-technician-plays-critical-role-in-research-exper.html)!
 
-<div class="row justify-content-sm-right">
+<div class="row justify-content-sm-end">
     <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/presenting.JPEG" title="my poster" class="img-fluid rounded z-depth-1" %}
     </div>
+<div class="caption">
+   Presenting work I had assisted with at the UMBS student researcher poster session.
 </div>
 
 
