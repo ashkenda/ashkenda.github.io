@@ -85,18 +85,18 @@ cv:
           - Conducted genetic analysis to identify mice genotypes using DNA extraction, PCR, and gel electrophoresis
 
     Publications and Presentations:
+      - title: Toxic relationships - predicting drivers of lake microcystin across the U.S. and into the future
+        authors:
+          - K. Ash, P.J. Hanly, K.S. Cheruvelil
+        publisher: ASLO-SIL 2026 Joint Meeting
+        releaseDate: 2026
+        
       - title: User Guide to LAGOS-US HUMAN v1
         authors:
           - Lippert, A.L., Z. Naylor, X. Sun, P.J. Hanly, J. Díaz Vázquez, M. Haite, K. Ash, K.S. Cheruvelil, and P.A. Soranno
         publisher: Environmental Data Initiative
         releaseDate: 2025
         url: https://doi.org/10.6073/pasta/565221d2d2a7cb3dcf103e44f538d89b
-
-      - title: Toxic relationships - predicting drivers of lake microcystin across the U.S. and into the future
-        authors:
-          - K. Ash, P.J. Hanly, K.S. Cheruvelil
-        publisher: ASLO-SIL 2026 Joint Meeting
-        releaseDate: 2026
 
       - title: Predicting cyanobacteria blooms in U.S. lakes using national scale data
         authors:
@@ -108,14 +108,14 @@ cv:
       - title: TA
         date: "Summer 2025"
         awarder: Undergraduate Internship Experiences in South Africa
-        summary:
+        highlights:
           - Coordinated and supported students for two-week cheetah conservation and marine biology internships in South Africa
           - graded student assignments
 
       - title: Field Assistant and Grader
         date: "Fall 2025"
         awarder: Field and Laboratory Techniques for Aquatic Studies
-        summary:
+        highlights:
           - Prepared and assisted with laboratory activities and equipment, graded student assignments
           - Prepared and presented a guest lecture about algae and harmful algal blooms
 
