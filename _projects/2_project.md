@@ -36,7 +36,6 @@ I spent the summer of 2024 as the inaugural field technician at the University o
 <div class="caption">
     More pictures! left: Some of the mammal specimens that I helped restore. middle: Measuring and collecting strawberries for Dr. Mary Jamieson (Oakland University). right: A sleepy tricolored bumblebee that I caught during a bumblebee survey for Dr. Jamieson and Danielle Dorsen.
 </div>
-
 The Biostation also has countless opportunities for outreach. I loved sharing my experiences with locals who were interested in the observations I had made and in turn hearing about their experiences living around the station. I was able to present some of the things I had learned to the community at the UMBS open house and student researcher poster session where I illustrated a poster by hand. At the end of the summer, I also answered a Q & A about my experiences, which you can read [here](https://lsa.umich.edu/umbs/news-events/all-news/search-news/q-a--umbs-field-technician-plays-critical-role-in-research-exper.html)!
 
 <div class="row justify-content-sm-end">
