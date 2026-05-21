@@ -44,7 +44,6 @@ The Biostation also has countless opportunities for outreach. I loved sharing my
         {% include figure.liquid path="assets/img/presenting.JPEG" title="my poster" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
-    
 
 
 {% endraw %}
