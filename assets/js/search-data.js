@@ -466,9 +466,9 @@ ninja.data = [{
           description: "working in the Duffy Lab at the University of Michigan",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
-            },},{id: "projects-project-4",
-          title: 'project 4',
-          description: "another without an image",
+            },},{id: "projects-study-abroad",
+          title: 'study abroad',
+          description: "studying algal growth in Iceland",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
             },},{id: "projects-project-5",
