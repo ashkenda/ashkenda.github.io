@@ -12,13 +12,16 @@ My senior year of undergrad (2023-2024) at the University of Michigan was spent 
 After my first summer in the lab, I had the priviledge of running my own experiment as a supplemental analysis for chapter 3 of Dr. Kristel Sanchez's PhD dissertation (found [here](https://deepblue.lib.umich.edu/items/94efe73b-bec5-472b-93d6-50d6d1146016)). Dr. Sanchez had used ddPCR to quantify the amount of algae eaten by _Daphnia_ during a 24-hour experiment and found no significant difference between the amount of algal DNA in beakers before and after feeding. We wanted to determine whether this result was reliable or a consequence of persistent algal eDNA which had not been digested during feeding. To test this, I conducted a feeding assay with _Daphnia magna_ over 24 hours and compared the estimated amount of algae before and after feeding using ddPCR with and without the addition of a light-activated dye that removes eDNA. For comparison, I also quantified the amount of algae before and after feeding using cell counting and fluorometry. Interestingly, there was no significant difference in the quantity of algae after the removal of eDNA, meaning that Dr. Sanchez's results were supported and that _D. magna_ simply weren't eating much in our feeding period!
 
 <div class="row justify-content-center">
-    <div class="col-sm-4 mt-3 mt-md-0">
+    <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/juveniles.jpeg" title="juveniles" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
+    <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/samples.jpeg" title="samples" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/PMA_plot.png" title="mammal specimens" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    left: Collecting juvenile <ed>Daphnia</ed> for an experiment right: Activating my dyed samples to remove eDNA. We had to order a special lighbulb that was so bright we could see it through our eyelids!!
+    left: Collecting juvenile <ed>Daphnia</ed> for an experiment middle: Activating my dyed samples to remove eDNA. We had to order a special lighbulb that was so bright we could see it through our eyelids!! right: Some of my results showing no significant difference in post-feeding algal quantity with eDNA removed. The PMA dye was demonstrated to effectively remove eDNA in a control in which algal cells were artificially lysed.
 </div>
