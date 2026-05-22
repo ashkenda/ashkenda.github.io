@@ -77,6 +77,3 @@ As I near the end of my master's program, I am searching for a PhD position! Whi
     </a>
   </div>
 </div>
-
-
-
