@@ -48,12 +48,13 @@ As I near the end of my master's program, I am searching for a PhD position! Whi
       <div class="card h-100 hoverable">
         <img src="/assets/img/biostation pic.jpeg" class="card-img-top" alt="project 2">
         <div class="card-body">
-          <h5 class="card-title">field technician</h5>
+          <h5 class="card-title">field techning</h5>
           <p class="card-text">working as the field technician at the University of Michigan Biological Station</p>
         </div>
       </div>
     </a>
   </div>
+  <br>
   <br>
   <div class="col">
     <a href="/projects/3_project/">
