@@ -1,16 +1,14 @@
 ---
 layout: page
-title: project 3 with very long name
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
-importance: 1
+title: working with _Daphnia_
+description: undergraduate research in the Duffy Lab at the University of Michigan
+img: assets/img/Daphnia_magna_asexual.jpg
+importance: 3
 category: work
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+My senior year of undergrad (2023-2024) at the University of Michigan was spent working as a research assistant in the [Duffy Lab](https://duffylab.wordpress.com/). 
+
 
 To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 
