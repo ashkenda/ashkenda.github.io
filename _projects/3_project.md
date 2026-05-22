@@ -7,8 +7,7 @@ importance: 3
 category: work
 ---
 
-My senior year of undergrad (2023-2024) at the University of Michigan was spent working as a research assistant in the [Duffy Lab](https://duffylab.wordpress.com/). 
-
+My senior year of undergrad (2023-2024) at the University of Michigan was spent working as a research assistant in the [Duffy Lab](https://duffylab.wordpress.com/).
 
 To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 
