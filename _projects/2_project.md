@@ -1,6 +1,6 @@
 ---
 layout: page
-title: field techning
+title: field teching
 description: working as the field technician at the University of Michigan Biological Station
 img: assets/img/biostation pic.jpeg
 importance: 1
