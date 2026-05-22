@@ -458,7 +458,7 @@ ninja.data = [{
               window.location.href = "/projects/1_project/";
             },},{id: "projects-umbs",
           title: 'UMBS',
-          description: "my time as the field technician at the University of Michigan Biological Station",
+          description: "working as the field technician at the University of Michigan Biological Station",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{id: "projects-undergraduate-research",
