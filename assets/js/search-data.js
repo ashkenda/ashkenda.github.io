@@ -461,9 +461,9 @@ ninja.data = [{
           description: "my time as the field technician at the University of Michigan Biological Station",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-working-with-daphnia",
-          title: 'working with Daphnia',
-          description: "undergraduate research in the Duffy Lab at the University of Michigan",
+            },},{id: "projects-undergraduate-research",
+          title: 'undergraduate research',
+          description: "working in the Duffy Lab at the University of Michigan",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
             },},{id: "projects-project-4",
