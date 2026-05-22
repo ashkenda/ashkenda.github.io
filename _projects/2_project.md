@@ -3,7 +3,7 @@ layout: page
 title: UMBS
 description: my time as the field technician at the University of Michigan Biological Station
 img: assets/img/biostation pic.jpeg
-importance: 2
+importance: 1
 category: work
 giscus_comments: false
 ---
