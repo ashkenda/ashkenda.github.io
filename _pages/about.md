@@ -29,7 +29,7 @@ My master's research leverages public datasets and machine learning to predict r
 
 As I near the end of my master's program, I am searching for a PhD position! While my interests are not limited to Harmful Algal Blooms, they are an exemplary case study in what piques my curiosity. I love researching strange and unique ecological phenomena, small organisms that have observable ecosystem and macroscale impacts, and the conditions under which organisms break out of their typically beneficial roles and become harmful (or vice versa!). If you would like to discuss any of these interests or potential opportunities, please reach out!
 
-
+## Previous and Ongoing Research
 
 <div class="row row-cols-1 row-cols-md-2 g-3 mt-3">
   <div class="col">
@@ -77,3 +77,4 @@ As I near the end of my master's program, I am searching for a PhD position! Whi
     </a>
   </div>
 </div>
+
