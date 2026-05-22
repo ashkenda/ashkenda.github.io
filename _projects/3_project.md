@@ -1,9 +1,9 @@
 ---
 layout: page
-title: working with _Daphnia_
+title: working with <em>Daphnia</em>
 description: undergraduate research in the Duffy Lab at the University of Michigan
 img: assets/img/Daphnia_magna_asexual.jpg
-importance: 3
+importance: 1
 category: work
 ---
 
