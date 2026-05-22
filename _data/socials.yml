@@ -17,3 +17,5 @@ iNaturalist: # can be any name here other than the ones already defined in the j
   logo: ai ai-inaturalist # can be png, svg, jpg
   title: iNaturalist
   url: https://www.inaturalist.org/people/kenda11
+
+github_username: ashkenda
