@@ -21,6 +21,11 @@ latest_posts:
   enabled: true
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
+
+  selected_projects:
+  enabled: true
+  scrollable: true
+  limit: 4
 ---
 
 Hi, I'm Kendall! I am a budding ecologist and naturalist with a passion for interdisciplinary and collaborative research. I am currently a masters stuent in the [Bridge Lab](https://bridgelabresearch.org/) at Michigan State University, co-advised by Drs. Kendra Spence Cheruvelil and Patrick Hanly. I received my B.S. in Ecology & Evolutionary Biology and German from the University of Michigan in 2024. My scientific career so far has spanned a wide variety of experiences, including analyzing the DNA of mouse models with cardiovascular disease, measuring algal growth in Iceland with Dr. Sara Hardardottir, cultivating _Daphnia_ and their parasites in the Duffy Lab, and catching bumble bees and building mesocosms at the University of Michigan Biological Station.
