@@ -4,8 +4,7 @@ title: research
 permalink: /research/
 description: A collection of my previous research experiences and projects.
 nav: true
-nav_order: 3
-display_categories: [work, fun]
+nav_order: 2
 horizontal: false
 ---
 
