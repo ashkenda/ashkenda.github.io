@@ -2,7 +2,7 @@ cv:
   name: Kendall Ash
   label: Graduate Student
   email: ashkenda@msu.edu
-  location: East Lansing, MI
+  location: East Lansing
   image: /assets/img/glacier.jpg
   summary: I am a masters student in the Bridge Lab at Michigan State University pursuing a degree in Fisheries & Widlife with a specialization in Ecology, Evolution, & Behavior. My current research utilizes machine learning and national scale datasets to predict risk of microcystin toxins across U.S. lakes in both the present and future.
 
@@ -17,8 +17,8 @@ cv:
   address:
     street: 480 Wilson Rd
     city: East Lansing
-    region: Michigan
-    postalCode: MI 48824
+    region: MI
+    postalCode: 48824
     countryCode: US
 
   sections:
