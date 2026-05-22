@@ -1,13 +1,13 @@
 ---
 layout: page
-title: undergraduate research 
+title: undergraduate research
 description: working in the Duffy Lab at the University of Michigan
 img: assets/img/Daphnia_magna_asexual.jpg
 importance: 1
 category: work
 ---
 
-My senior year of undergrad (2023-2024) at the University of Michigan was spent working as a research assistant in the [Duffy Lab](https://duffylab.wordpress.com/). This experience 
+My senior year of undergrad (2023-2024) at the University of Michigan was spent working as a research assistant in the [Duffy Lab](https://duffylab.wordpress.com/). This experience
 
 To give your project a background in the portfolio page, just add the img tag to the front matter like so:
 
