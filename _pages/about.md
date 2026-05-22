@@ -54,6 +54,7 @@ As I near the end of my master's program, I am searching for a PhD position! Whi
       </div>
     </a>
   </div>
+  <br>
   <div class="col">
     <a href="/projects/3_project/">
       <div class="card h-100 hoverable">
