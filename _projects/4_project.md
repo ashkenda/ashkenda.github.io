@@ -1,24 +1,18 @@
 ---
 layout: page
-title: project 4
-description: another without an image
+title: study abroad
+description: studying algal growth in Iceland
 img:
-importance: 3
-category: fun
+importance: 1
+category: work
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+During my junior year of undergrad, I had the once in a lifetime opportunity to study abroad in Iceland through a program called "Climate Change and the Arctic". I spent a full semester in Iceland taking classes about climate modeling, Arctic ecology, and social dimensions of climate change. During this program, my cohort and I slept in hostels around the Ring Road, explored glaciers and hot springs, and stayed with host families in the remote village of Ísafjörður. 
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+The final month of our time abroad was spent conducting independent research projects in various sites around the country. For my project, I was able to work with Dr. Sara Hardardottir at the Marine and Freshwater Research Institute studying algal growth under warming conditions. I used climate models to estimate future sea surface temperature in 
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+Using a sample of _Pseudo-nitzschia delicatissima_ which Dr. Hardardottir had isolated from the local fjord, I first used climate models to estimate sea surface temperature 
+
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
