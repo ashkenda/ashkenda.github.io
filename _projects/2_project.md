@@ -1,7 +1,7 @@
 ---
 layout: page
 title: UMBS
-description: my time as the field technician at the University of Michigan Biological Station
+description: working as the field technician at the University of Michigan Biological Station
 img: assets/img/biostation pic.jpeg
 importance: 1
 category: work
@@ -39,10 +39,10 @@ I spent the summer of 2024 as the inaugural field technician at the University o
 The Biostation also has countless opportunities for outreach. I loved sharing my experiences with locals who were interested in the observations I had made and in turn hearing about their experiences living around the station. I was able to present some of the things I had learned to the community at the UMBS open house and student researcher poster session where I illustrated a poster by hand. At the end of the summer, I also answered a Q & A about my experiences, which you can read [here](https://lsa.umich.edu/umbs/news-events/all-news/search-news/q-a--umbs-field-technician-plays-critical-role-in-research-exper.html)!
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-auto mt-3 mt-md-0">
+    <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/presenting.JPEG" title="my poster" class="img-fluid rounded z-depth-1" style="height: 100px;" %}
     </div>
-    <div class="col-sm-auto mt-3 mt-md-0">
+    <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/undergrad.PNG" title="beaver dams" class="img-fluid rounded z-depth-1" style="height: 100px;" %}
     </div>
 </div>
