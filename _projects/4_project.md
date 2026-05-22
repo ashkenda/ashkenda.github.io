@@ -2,7 +2,7 @@
 layout: page
 title: study abroad
 description: studying algal growth in Iceland
-img:
+img: assets/img/pn_background.jpg
 importance: 1
 category: work
 ---
