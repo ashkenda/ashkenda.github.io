@@ -14,13 +14,11 @@ profiles:
     content: about_inat.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      A selfie with the participants of our 2026 CNC bird walk co-led by Capital Area Audubon president Nick Seger and graduate researcher Stella Hao.
+      <p style="text-align: center; font-size: 0.85rem; color: var(--global-text-color-light); font-style: italic;">A selfie with the participants of our 2026 CNC bird walk co-led by Capital Area Audubon president Nick Seger and graduate researcher Stella Hao.</p>
   - align: left
     image: diabolical.jpg
-    content: about_einstein.md
+    content: about_bugs.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p style="text-align: center; font-size: 0.85rem; color: var(--global-text-color-light); font-style: italic;">Holding my favorite insect in the collection, the diabolical ironclad beetle. This one is especially resilient to children!</p>
 ---
