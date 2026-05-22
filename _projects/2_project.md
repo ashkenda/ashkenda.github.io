@@ -40,10 +40,10 @@ The Biostation also has countless opportunities for outreach. I loved sharing my
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-auto mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/presenting.JPEG" title="my poster" class="img-fluid rounded z-depth-1" style="height: 100px; width: auto;" %}
+        {% include figure.liquid path="assets/img/presenting.JPEG" title="my poster" class="img-fluid rounded z-depth-1" style="height: 100px;" %}
     </div>
     <div class="col-sm-auto mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/undergrad.PNG" title="beaver dams" class="img-fluid rounded z-depth-1" style="height: 100px; width: auto;" %}
+        {% include figure.liquid loading="eager" path="assets/img/undergrad.PNG" title="beaver dams" class="img-fluid rounded z-depth-1" style="height: 100px;" %}
     </div>
 </div>
 <div class="caption">
