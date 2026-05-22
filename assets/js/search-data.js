@@ -462,7 +462,7 @@ ninja.data = [{
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{id: "projects-working-with-daphnia",
-          title: 'working with _Daphnia_',
+          title: 'working with Daphnia',
           description: "undergraduate research in the Duffy Lab at the University of Michigan",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
