@@ -35,7 +35,7 @@ ninja.data = [{
           description: "science communication &amp; public engagement",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/people/";
+            window.location.href = "/outreach/";
           },
         },{id: "post-a-post-with-plotly-js",
         
