@@ -421,8 +421,8 @@ ninja.data = [{
           description: "predicting algal toxin with machine learning",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-field-techning",
-          title: 'field techning',
+            },},{id: "projects-field-teching",
+          title: 'field teching',
           description: "working as the field technician at the University of Michigan Biological Station",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
