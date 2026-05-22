@@ -140,6 +140,10 @@ cv:
         date: 2025
         awarder: NOAA NCCOS
 
+        - title: Best Prospective Oral Presentation
+          date: 2025
+          awarder: Fisheries and Wildlife Graduate Student Symposium
+
     Volunteer:
       - company: iNaturalist
         position: City Nature Challenge Organizer and iNaturalist Ambassador
