@@ -1,6 +1,6 @@
 ---
 layout: profiles
-permalink: /people/
+permalink: /outreach/
 title: outreach
 description: science communication & public engagement
 nav: true
