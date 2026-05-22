@@ -18,7 +18,7 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
@@ -35,7 +35,7 @@ As I near the end of my masters program, I am searching for a PhD position! Whil
   <div class="col">
     <a href="/projects/1_project/">
       <div class="card h-100 hoverable">
-        <img src="/assets/img/your_image1.jpg" class="card-img-top" alt="project 1">
+        <img src="/assets/img/528685_dh4tj2_365391.jpg" class="card-img-top" alt="project 1">
         <div class="card-body">
           <h5 class="card-title">Project Title 1</h5>
           <p class="card-text">Short description of project 1.</p>
@@ -46,7 +46,7 @@ As I near the end of my masters program, I am searching for a PhD position! Whil
   <div class="col">
     <a href="/projects/2_project/">
       <div class="card h-100 hoverable">
-        <img src="/assets/img/your_image2.jpg" class="card-img-top" alt="project 2">
+        <img src="/assets/img/biostation pic.jpeg" class="card-img-top" alt="project 2">
         <div class="card-body">
           <h5 class="card-title">Project Title 2</h5>
           <p class="card-text">Short description of project 2.</p>
@@ -57,7 +57,7 @@ As I near the end of my masters program, I am searching for a PhD position! Whil
   <div class="col">
     <a href="/projects/3_project/">
       <div class="card h-100 hoverable">
-        <img src="/assets/img/your_image3.jpg" class="card-img-top" alt="project 3">
+        <img src="/assets/img/Daphnia_magna_asexual.jpg" class="card-img-top" alt="project 3">
         <div class="card-body">
           <h5 class="card-title">Project Title 3</h5>
           <p class="card-text">Short description of project 3.</p>
@@ -68,7 +68,7 @@ As I near the end of my masters program, I am searching for a PhD position! Whil
   <div class="col">
     <a href="/projects/4_project/">
       <div class="card h-100 hoverable">
-        <img src="/assets/img/your_image4.jpg" class="card-img-top" alt="project 4">
+        <img src="/assets/img/pn_background.jpg" class="card-img-top" alt="project 4">
         <div class="card-body">
           <h5 class="card-title">Project Title 4</h5>
           <p class="card-text">Short description of project 4.</p>
