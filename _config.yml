@@ -86,7 +86,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: just for fun # blog_name will be displayed in your blog page
-blog_description: hobbies, projects, and events that I've done for fun :-)
+blog_description: hobbies, projects, and activities that I've done for fun :-)
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
