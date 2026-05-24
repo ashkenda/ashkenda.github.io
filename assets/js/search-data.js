@@ -30,19 +30,19 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-fun",
-          title: "fun!",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/fun!/index.html";
-          },
         },{id: "nav-outreach",
           title: "outreach",
           description: "science communication, public engagement, &amp; community science",
           section: "Navigation",
           handler: () => {
             window.location.href = "/outreach/";
+          },
+        },{id: "nav-fun",
+          title: "fun!",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/fun!/index.html";
           },
         },{id: "post-a-post-with-plotly-js",
         
