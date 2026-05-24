@@ -66,6 +66,17 @@ ninja.data = [{
             window.location.href = "/blog/2025/dilllympics/";
           
         },
+      },{id: "post-trivia",
+        
+          title: "Trivia",
+        
+        description: "our bar trivia team!",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/trivia/";
+          
+        },
       },{id: "post-a-post-with-image-galleries",
         
           title: "a post with image galleries",
@@ -75,17 +86,6 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2024/photo-gallery/";
-          
-        },
-      },{id: "post-a-post-with-advanced-image-components",
-        
-          title: "a post with advanced image components",
-        
-        description: "this is what advanced image components could look like",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2024/advanced-images/";
           
         },
       },{id: "books-the-godfather",
