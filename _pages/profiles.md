@@ -21,4 +21,10 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
       <p style="text-align: center; font-size: 0.85rem; color: var(--global-text-color-light); font-style: italic;">Holding my favorite insect in the collection, the diabolical ironclad beetle. This one is especially resilient to children!</p>
+  - align: right
+    image: shrimp.jpg
+    content: about_vpp.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p style="text-align: center; font-size: 0.85rem; color: var(--global-text-color-light); font-style: italic;">A fairy shrimp from one of the vernal pools I sampled.</p>
 ---
