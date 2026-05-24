@@ -1,3 +1,3 @@
 ## Vernal Pool Patrol
 
-I love vernal pools! 
+I love vernal pools! In spring of 2025, I became a volunteer for the [Michigan Vernal Pool Patrol](https://vernal-pool-patrol-mnfi.hub.arcgis.com/), a statewide monitoring program created to document locations and health of vernal pools across Michigan. Volunteers help verify the presence of vernal pools, monitor their status annually, and collect data on physical and biological characteristics of the pools. This data is collected using GIS and is used by the Michigan Natural Features Inventory, Michigan State Extension, and Michigan Vernal Pools Partnership to provide information to policymakers and landmanagers and inform management and conservaiton of vernal pools in Michigan. I love taking a closer look at vernal pools in the area and get especially excited when I get to see some of my favorite vernal pool inhabitants, spotted salamanders and fairy shrimp!
