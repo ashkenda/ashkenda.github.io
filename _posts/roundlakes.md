@@ -3,7 +3,7 @@ layout: post
 title: Round Lakes
 date: 2025-11-19
 description: a gif of increasingly round lakes
-tags: images, code, fun
+tags: [images, code, fun]
 categories: 
 featured: false
 ---
