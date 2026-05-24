@@ -2,7 +2,7 @@
 layout: profiles
 permalink: /outreach/
 title: outreach
-description: science communication & public engagement
+description: science communication, public engagement, & community science
 nav: true
 nav_order: 7
 
