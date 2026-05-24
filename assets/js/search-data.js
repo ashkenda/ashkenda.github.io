@@ -55,6 +55,17 @@ ninja.data = [{
             window.location.href = "/blog/2025/roundlakes/";
           
         },
+      },{id: "post-dilllympics",
+        
+          title: "DILLLYMPICS",
+        
+        description: "the DILL Lab Olympics",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/dilllympics/";
+          
+        },
       },{id: "post-a-post-with-image-galleries",
         
           title: "a post with image galleries",
@@ -75,17 +86,6 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2024/advanced-images/";
-          
-        },
-      },{id: "post-a-post-with-images",
-        
-          title: "a post with images",
-        
-        description: "this is what included images could look like",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2015/images/";
           
         },
       },{id: "books-the-godfather",
