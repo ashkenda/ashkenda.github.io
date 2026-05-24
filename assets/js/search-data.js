@@ -44,7 +44,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/fun!/index.html";
           },
-        },{id: "post-a-post-with-image-galleries",
+        },{id: "post-round-lakes",
+        
+          title: "Round Lakes",
+        
+        description: "a gif of increasingly round lakes",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/roundlakes/";
+          
+        },
+      },{id: "post-a-post-with-image-galleries",
         
           title: "a post with image galleries",
         
