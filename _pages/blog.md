@@ -2,7 +2,7 @@
 layout: default
 permalink: /fun!/
 title: fun!
-nav: false
+nav: true
 nav_order: 6
 pagination:
   enabled: true
