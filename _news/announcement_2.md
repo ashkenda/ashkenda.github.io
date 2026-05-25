@@ -32,6 +32,3 @@ I presented the first chapter of my research at the International Conference on 
 <div class="caption">
     Pictures from Torres del Paine.
 </div>
-
-
-
