@@ -22,10 +22,10 @@ I presented the first chapter of my research at the International Conference on 
 </div>
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-4 mt-3 mt-md-0">
+    <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/tdp1.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
-    <div class="col-sm-8 mt-3 mt-md-0">
+    <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/tdp2.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
