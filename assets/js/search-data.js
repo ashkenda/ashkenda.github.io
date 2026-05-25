@@ -93,15 +93,15 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "news-i-gave-an-oral-presentation-on-the-second-chapter-of-my-master-39-s-thesis-at-the-aslo-sil-conference-in-montreal",
+          section: "News",},{id: "news-i-presented-the-first-chapter-of-my-research-at-icha-in-punta-arenas-chile",
+          title: 'I presented the first chapter of my research at ICHA in Punta Arenas,...',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_2/";
+            },},{id: "news-i-gave-an-oral-presentation-on-the-second-chapter-of-my-master-39-s-thesis-at-the-aslo-sil-conference-in-montreal",
           title: 'I gave an oral presentation on the second chapter of my master&amp;#39;s thesis...',
           description: "",
           section: "News",handler: () => {
