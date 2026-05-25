@@ -13,7 +13,7 @@ I presented the first chapter of my research at the International Conference on 
         {% include figure.liquid path="assets/img/icha1.JPG" class="img-fluid rounded z-depth-1" style="height: 100px;" zoomable=true %}
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/icha2.JPG"class="img-fluid rounded z-depth-1" style="height: 100px;" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/img/icha2.JPG" class="img-fluid rounded z-depth-1" style="height: 100px;" zoomable=true %}
     </div>
 </div>
 
@@ -27,8 +27,11 @@ I presented the first chapter of my research at the International Conference on 
     </div>
     <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/tdp2.jpeg" class="img-fluid rounded z-depth-1" zoomable=true %}
-    </div>   
+    </div>
 </div>
 <div class="caption">
     Pictures from Torres del Paine.
 </div>
+
+
+
