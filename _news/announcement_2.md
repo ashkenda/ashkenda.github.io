@@ -1,7 +1,7 @@
 ---
 layout: post
 title: I presented the first chapter of my research at ICHA in Punta Arenas, Chile!
-date: 2025-10-21 
+date: 2025-10-21
 inline: false
 related_posts: false
 ---
