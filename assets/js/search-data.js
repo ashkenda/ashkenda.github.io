@@ -93,10 +93,7 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "news-i-presented-the-first-chapter-of-my-research-at-icha-in-punta-arenas-chile",
+            },},{id: "news-i-presented-the-first-chapter-of-my-research-at-icha-in-punta-arenas-chile",
           title: 'I presented the first chapter of my research at ICHA in Punta Arenas,...',
           description: "",
           section: "News",handler: () => {
