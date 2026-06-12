@@ -138,7 +138,7 @@ ninja.data = [{
         title: 'CV',
         section: 'Socials',
         handler: () => {
-          window.open("/assets/pdf/ASH_CV_2026.pdf", "_blank");
+          window.open("/assets/pdf/CV_2026_public.pdf", "_blank");
         },
       },{
         id: 'social-email',
